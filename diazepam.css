@@ -1,0 +1,128 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header {
+	text-align: center;
+	letter-spacing: 15pt;
+	background-color:#5AE3BC;
+	color:#FFF;
+}
+#logo{
+	margin-left: 25%;
+	margin-right: 25%;
+	}
+
+#body {
+	background-image: url(images%20/ice_cream_with_banner.png);
+	color: #CCC;
+}
+
+#footer {
+	text-align: right;
+	background-color:#000;
+}
+
+#sidebar li{
+	font: 14px Arial;
+	list-style-type: none; /*remove bullet points*/
+}
+
+#sidebar a{
+	display: block;
+	padding: 5px;
+	width: 210px;
+	text-align:left;
+	color: #903; /*font color*/
+	text-decoration: none; /*underline default removed (while creating link*/
+	background-color: #FFF;
+	opacity: 0.9;
+	margin-left: 5%;
+
+}
+
+#sidebar a:hover {
+	background-color:#5EBACC;
+	font-weight: bold;
+}
+
+#content {
+	display: block;
+	padding: 10px;
+	text-align: left;
+	color: #099; /*font color*/
+	opacity: 0.9;
+	text-decoration: none;
+	background-color: #FFF;
+	margin-top: -6%; /*overlap*/
+	width: 700px;
+	height: 700px;
+	margin-left: 25%;
+	margin-right: 25%;
+	font: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	}
+
+#scoop_icecream {
+	float:left;
+	margin: 20px 10px 20px 0;
+}
+
+#sundae_icecream {
+	float: left;
+	margin: 20px 10px 20px 0;
+}
+
+#fried_icecream {
+	float:left;
+}
+
+#cake_icecream {
+	float:left;
+}
+
+#waffle_icecream {
+	float: left;
+}
+
+#cookie_icecream {
+	float:left;
+}
+
+#float_icecream {
+	float:left;
+}
+
+#menu1{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#menu2{
+	margin-left: 15%;
+	margin-right: 25%;
+}
+
+#menu3{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#menu4{
+	margin-left: 15%;
+	margin-right: 10%;
+}
+
+#menu5{
+	margin-left: 15%;
+	margin-right: 25%;
+}
+
+#menu6{
+	margin:0;
+}
+
+#menu7{
+	margin-left: 25%;
+	margin-right: 25%;
+}
+	
+	
